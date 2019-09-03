@@ -3,7 +3,7 @@ Materials for my finished project on the early German Ship of Fools prints
 
 Most of this project has been published, however,  not in open access. Once I have screened all documents related to this, I will self-archive everything on institutional repositories and here on GitHub.
 
-In the meantime, you can read:
+## Published Material
 
 AR: Produktion und Drucküberlieferung der editio princeps von Sebastian Brants »Narrenschiff« (Basel 1494). Eine medienhistorisch-druckanalytische Untersuchung. Frankfurt/Main 2011 [2010] (Europäische Hochschulschriften. Reihe I: Deutsche Sprache und Literatur. 2009). – Extracts on Peter Lang Verlag's website [here](http://www.peterlang.com/download/extract/58093/leseprobe_261049.pdf).
 
