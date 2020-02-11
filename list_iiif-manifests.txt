@@ -1,0 +1,30 @@
+List of links to IIIF manifests for Incunabula prints of the Ship of Fools
+
+-------------
+SBB-PK
+-------------
+https://content.staatsbibliothek-berlin.de/dc/829208356/manifest
+https://content.staatsbibliothek-berlin.de/dc/848962230/manifest
+https://content.staatsbibliothek-berlin.de/dc/848961617/manifest
+https://content.staatsbibliothek-berlin.de/dc/848860187/manifest
+https://content.staatsbibliothek-berlin.de/dc/799202126/manifest
+
+-------------
+ULB Darmstadt
+-------------
+http://tudigit.ulb.tu-darmstadt.de/show/iiif/inc-ii-218/manifest.json
+
+-------------
+LOC Washington
+-------------
+https://www.loc.gov/item/48031313/manifest.json
+
+-------------
+UB Heidelberg
+-------------
+https://digi.ub.uni-heidelberg.de/diglit/iiif/ib01081100/manifest.json
+
+-------------
+Basel
+-------------
+https://www.e-rara.ch/i3f/v20/1399131/manifest
